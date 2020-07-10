@@ -1,6 +1,6 @@
 # Profile
 
-![intro](https://github.com/soufian2017/soufian2017/raw/master/images/intro.jpg)
+![intro](https://github.com/soufian2017/soufian2017/raw/master/images/intro.png)
 
 # About Me
 
