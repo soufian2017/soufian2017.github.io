@@ -34,7 +34,7 @@ Feel free to contact me on one of the following social media platforms :
 > ![FB](https://github.com/soufian2017/soufian2017/raw/master/images/fbook.png) [**@khedim.soufian**](https://facebook.com/khedim.soufian)
 
 
-> ![TW](images/tw.png) [**@bl4nk_5h3ll**](https://twitter.com/bl4nk_5h3ll)
+> ![TW](https://github.com/soufian2017/soufian2017/raw/master/images/tw.png) [**@bl4nk_5h3ll**](https://twitter.com/bl4nk_5h3ll)
 
 
-> ![Lin](images/lin.png) [**Khedim Mohammed Soufiane**](https://www.linkedin.com/in/khedim-mohammed-soufiane/)
+> ![Lin](https://github.com/soufian2017/soufian2017/raw/master/images/lin.png) [**Khedim Mohammed Soufiane**](https://www.linkedin.com/in/khedim-mohammed-soufiane/)
