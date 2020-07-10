@@ -4,10 +4,14 @@
 
 # About Me
 
+> **Mail**: [khedim.mohammedsoufiane@gmail.com](mailto:khedim.mohammedsoufiane@gmail.com)
+
+> **Phone**: [+213 556 436 074]()
+
 ## Blog
 
 Find out more about CTFs, challenges, hacking fun and learning through solving in my blog.
-> ![BLOG](images/blog.png) [**Blog**](https://soufian2017.github.io/Blog/)
+> ![BLOG](images/blog.png) [**Check out my blog**](https://soufian2017.github.io/Blog/)
 
 ## Bug Bounty
 
