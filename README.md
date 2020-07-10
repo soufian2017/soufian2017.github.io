@@ -2,6 +2,11 @@
 
 ![intro](https://github.com/soufian2017/soufian2017/raw/master/images/intro.png)
 
+[![join](https://img.shields.io/badge/Blog-Join%20Me-blue)](https://soufian2017.github.io/Blog/)
+[![Follow](https://img.shields.io/github/followers/soufian2017?label=Follow%20Me&color=success)]()
+[![Stars](https://img.shields.io/badge/My%20stars-Check%20it%20out-yellow)](https://github.com/soufian2017?tab=stars)
+[![Hack](https://img.shields.io/badge/Hack-For%20Good-orange)]()
+
 # About Me
 
 > **Mail**: [khedim.mohammedsoufiane@gmail.com](mailto:khedim.mohammedsoufiane@gmail.com)
