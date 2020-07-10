@@ -28,7 +28,7 @@ If you like what you saw please feel free to give me a star on HTB platform.
 ## **Contact**
 
 You can find more informations about me in the attachment below :
-> ![twitter](https://github.com/soufian2017/soufian2017/raw/master/images/tw.png) [**Resumer.pdf**](Resume_2020.pdf)
+> ![twitter](https://github.com/soufian2017/soufian2017/raw/master/images/down.png) [**Resumer.pdf**](https://github.com/soufian2017/soufian2017/raw/master/Resume_2020.pdf)
 
 Feel free to contact me on one of the following social media platforms :
 > ![FB](https://github.com/soufian2017/soufian2017/raw/master/images/fbook.png) [**@khedim.soufian**](https://facebook.com/khedim.soufian)
