@@ -28,7 +28,7 @@ Here you can find my Bug Bounty profiles.
 ## **HackTheBox**
 
 If you like what you saw please feel free to give me a star on HTB platform.
-> ![HTB](https://github.com/soufian2017/soufian2017.github.io/raw/master/images/htb.png) [**@bl4nksh3ll**](https://www.hackthebox.eu/home/users/profile/145799)
+> ![HTB](https://github.com/soufian2017/soufian2017.github.io/raw/master/images/htb.png) [**@bl4nksh3ll**](https://www.hackthebox.eu/profile/145799)
 
 ## **Contact**
 
